@@ -1,0 +1,10 @@
+- Pasta Sauce
+- Ketchup
+- Eggs
+- Bacon
+- Ice Cream
+- Candy
+- Cereal
+- Milk
+- Juice
+- Broccoli
