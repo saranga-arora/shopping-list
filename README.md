@@ -8,3 +8,5 @@
 - Milk
 - Juice
 - Broccoli
+- Cheese
+- Crackers
